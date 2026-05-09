@@ -1,5 +1,9 @@
 # Change Log
 
+## 2026-05-10
+
+- `analyze`: Created `raw/20260510/CRWD_100526.md`, created `[[CRWD]]`, refreshed dashboard, entity index, and portfolio map for CrowdStrike full analysis.
+
 ## 2026-05-09
 
 - `analyze`: Created `raw/20260509/PLTR_090526.md`, created `[[PLTR]]`, refreshed dashboard, entity index, and portfolio map for Palantir Technologies full analysis.
