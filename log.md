@@ -2,6 +2,7 @@
 
 ## 2026-05-09
 
+- `analyze`: Created `raw/20260509/PLTR_090526.md`, created `[[PLTR]]`, refreshed dashboard, entity index, and portfolio map for Palantir Technologies full analysis.
 - `analyze`: Created `raw/20260509/BAC_090526.md`, created `[[BAC]]`, refreshed dashboard, entity index, and portfolio map for Bank of America full analysis.
 - `analyze`: Created `raw/20260509/CSCO_090526.md`, created `[[CSCO]]`, refreshed dashboard, entity index, and portfolio map for Cisco Systems full analysis.
 

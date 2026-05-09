@@ -2,6 +2,7 @@
 
 | Ticker | Company | Latest Action | Latest Report |
 |---|---|---|---|
+| [[PLTR]] | Palantir Technologies Inc. | Buy 5% of intended PLTR position now only as a high-risk geopolitical/AI-defense satellite; cap total PLTR at 3%-5% of portfolio; add only on pullbacks | [[PLTR_090526]] |
 | [[BAC]] | Bank of America Corporation | Buy 10%-15% starter with limit around $49-$51; don't chase above $55 | [[BAC_090526]] |
 | [[CSCO]] | Cisco Systems, Inc. | Wait; don't chase above $90; buy 10%-15% starter only at $82-$86 after Q3 FY2026 validates AI networking orders, campus refresh, Security/Splunk, margin and tariff thesis | [[CSCO_090526]] |
 | [[DELL]] | Dell Technologies Inc. | Wait; don't chase above $220; buy only on pullback to $180-$195 | [[DELL_080526]] |
