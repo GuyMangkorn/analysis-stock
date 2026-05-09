@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Analysis"
+  short_description: "Thai investor stock reports"
+  default_prompt: "Use $stock-analysis to analyze a US stock for a Thai moderate-risk investor and create a Markdown report."
