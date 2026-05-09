@@ -239,6 +239,17 @@ Use:
 - `analyze`: Created `raw/20260429/ASML_290426.md`, updated `[[ASML]]`, refreshed dashboard.
 ```
 
+## Git Commit Standard
+
+Whenever the agent creates files, ingests content, updates durable notes, completes an analysis/screen/lint fix, or finishes any repository maintenance task:
+
+1. Run `git status --short` and review the relevant diff before staging.
+2. Stage only the files changed for the current task. Do not stage unrelated user edits or generated files that are not part of the completed work.
+3. Commit after the source-fidelity check, dashboard/entity/log updates, and any requested verification are complete.
+4. Use a concise commit message in the form `mode: summary`, such as `analyze: add ASML report`, `ingest: add broker watchlist`, or `maintenance: refresh dashboard`.
+5. If the human explicitly asks not to commit, the task is intentionally left as a draft/WIP, or a commit cannot be made safely, state the reason and leave the working tree uncommitted.
+6. For larger tasks, prefer one coherent commit per completed unit of work unless the human asks for a different commit structure.
+
 ## Stock Analysis Requirements
 
 For full analysis, follow the local stock-analysis skill:
@@ -303,3 +314,4 @@ Whenever the agent creates or updates durable content:
 3. Refresh `updated` fields if a page uses frontmatter.
 4. Avoid editing raw reports retroactively except for typo, formatting, or explicit human request.
 5. Do not modify files outside this repository unless the human explicitly asks.
+6. Commit the completed repository changes according to the Git Commit Standard.
