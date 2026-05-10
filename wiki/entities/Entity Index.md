@@ -2,6 +2,7 @@
 
 | Ticker | Company | Latest Action | Latest Report |
 |---|---|---|---|
+| [[MS]] | Morgan Stanley | Wait; don't chase near 52-week high; buy 10%-15% starter only on pullback to $165-$175 after Q2 confirms wealth flows, markets/IB strength, CET1 and expense discipline | [[MS_100526]] |
 | [[CRWD]] | CrowdStrike Holdings, Inc. | Wait; don't chase above $500; buy 10%-15% starter only at $430-$460 after Q1 FY2027 confirms ARR, revenue, FCF, Falcon Flex and AI-security demand | [[CRWD_100526]] |
 | [[PLTR]] | Palantir Technologies Inc. | Buy 5% of intended PLTR position now only as a high-risk geopolitical/AI-defense satellite; cap total PLTR at 3%-5% of portfolio; add only on pullbacks | [[PLTR_090526]] |
 | [[BAC]] | Bank of America Corporation | Buy 10%-15% starter with limit around $49-$51; don't chase above $55 | [[BAC_090526]] |

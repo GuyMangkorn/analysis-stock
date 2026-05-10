@@ -2,6 +2,7 @@
 
 ## 2026-05-10
 
+- `analyze`: Created `raw/20260510/MS_100526.md`, created `[[MS]]`, refreshed dashboard, entity index, and portfolio map for Morgan Stanley full analysis.
 - `analyze`: Created `raw/20260510/CRWD_100526.md`, created `[[CRWD]]`, refreshed dashboard, entity index, and portfolio map for CrowdStrike full analysis.
 
 ## 2026-05-09
