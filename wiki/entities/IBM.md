@@ -2,7 +2,7 @@
 ticker: IBM
 company: International Business Machines Corporation
 market: NYSE
-updated: 2026-05-10
+updated: 2026-05-14
 status: active
 tags:
   - stock
@@ -20,17 +20,17 @@ tags:
 
 | Item | Current View |
 |---|---|
-| Latest action | **Buy 10%-15% starter only near $220-$230; do not chase above $250 until Q2 confirms software growth, AI backlog conversion, Confluent integration and FCF guide** |
-| Entry zone | $220-$230 starter; add $200-$210 only if Software, Red Hat, Consulting, Infrastructure cycle, FCF and debt thesis remain intact; IBM06 rough ฿2.84-฿2.97 before live quote/spread check |
-| Trim zone | $290-$320 |
-| Stop / reassess | $195 or Software/Red Hat growth, AI bookings conversion, Consulting demand, zSystems cycle, FCF, debt, dividend or IBM06 tracking thesis break |
+| Latest action | **Buy 15%-20% starter now around $212-$220; add only at $195-$205 if Q2 confirms Software, Red Hat, Consulting, Infrastructure cycle, FCF and debt thesis** |
+| Entry zone | $212-$220 starter now; add $195-$205 only if Q2 thesis intact; IBM06 rough ฿2.74-฿2.85 for starter zone before live quote/spread/premium check |
+| Trim zone | $285-$310 |
+| Stop / reassess | $190 or Software/Red Hat growth, AI conversion, Consulting demand/margin, Infrastructure cycle, FCF guide, debt, dividend or IBM06 tracking thesis break |
 | Risk level | Moderate |
 | Thai route | IBM06 SET DR, D+N, 2,500:1 conversion; use limit order and compare with NYSE:IBM x live USD/THB / 2,500 |
-| Latest report | [[IBM_100526]] |
+| Latest report | [[IBM_140526]] |
 
 ## Business Model
 
-IBM เป็น enterprise technology company ที่รายได้หลักมาจาก Software, Consulting, Infrastructure และ Financing. Thesis หลักคือ Software-led hybrid cloud / automation / data / transaction-processing franchise บวกกับ consulting distribution และ mainframe installed base. Source anchor: [[IBM_100526]].
+IBM เป็น enterprise technology company ที่รายได้หลักมาจาก Software, Consulting, Infrastructure และ Financing. Thesis หลักคือ Software-led hybrid cloud / automation / data / transaction-processing franchise บวกกับ consulting distribution และ mainframe installed base. Source anchor: [[IBM_140526]].
 
 ## Segments
 
@@ -41,7 +41,7 @@ IBM เป็น enterprise technology company ที่รายได้หล
 
 ## Revenue Mix
 
-FY2025 revenue mix from [[IBM_100526]]:
+FY2025 revenue mix from [[IBM_140526]]:
 
 | Revenue line | FY2025 amount | % of total revenue | Basis |
 |---|---:|---:|---|
@@ -76,7 +76,7 @@ IBM is strongest where enterprises want hybrid-cloud architecture, Red Hat/OpenS
 
 ## Valuation Notes
 
-Latest full report view: at $229.76, IBM traded around 20.35x TTM earnings and 18.21x forward earnings, with a 2.94% dividend yield and average analyst target $291.33. That creates reasonable starter risk/reward after the drawdown, but it is not a deep-value setup because current TTM P/E still sat above the cited 10-year median reference. Source anchor: [[IBM_100526]].
+Latest full report view: IBM's 13 May 2026 quote snapshot showed $214.64 close, P/E 19.42x, forward P/E 17.41x, dividend yield 3.15%, and average analyst target $291.33. At the 14 May intraday reference around $219.30, the same thesis has better starter risk/reward after the extra drawdown, but IBM is still not a full-size buy because Software, AI conversion, Consulting, Confluent integration, debt and FCF proof remain unresolved. Source anchor: [[IBM_140526]].
 
 ## Thai Investor Route
 
@@ -92,15 +92,17 @@ Preferred route: IBM06 only if spread and premium are acceptable; otherwise Webu
 
 | Date | Note |
 |---|---|
+| 2026-05-14 | Follow-up analysis after IBM fell another ~5% from the 10 May report reference. View: starter buy zone triggered around $212-$220, but only 15%-20% position size now; add $195-$205 only after Q2 proof. |
 | 2026-05-10 | Initiated full analysis. View: Post-Earnings Paradox after Q1 2026 beat/reaffirm but stock de-rated on software-growth, AI disruption, consulting and FCF skepticism. Action: buy only 10%-15% starter near $220-$230 / IBM06 fair equivalent; add only after Q2 proof. |
 
 ## Reports
 
+- [[IBM_140526]] - Follow-up stock analysis, 2026-05-14
 - [[IBM_100526]] - Full stock analysis, 2026-05-10
 
 ## Follow-Up
 
 - Q2 2026 earnings: check revenue, Software constant-currency growth, Red Hat trend, Consulting demand/margin, Infrastructure cycle, operating EPS, FCF, debt, Confluent integration and FY2026 guide.
-- Before order: confirm IBM is near $220-$230 or IBM06 is near live indicative value with acceptable spread/depth.
+- Before order: confirm IBM is near $212-$220 or IBM06 is near live indicative value with acceptable spread/depth/premium.
 - 2026 AI monetization watch: track whether watsonx, automation, data and Confluent convert into revenue/FCF rather than only narrative.
 - Balance-sheet watch: monitor debt reduction and whether FCF covers dividend, integration needs and reinvestment.

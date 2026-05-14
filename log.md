@@ -1,5 +1,9 @@
 # Change Log
 
+## 2026-05-14
+
+- `analyze`: Created `raw/20260514/IBM_140526.md`, updated `[[IBM]]`, and refreshed dashboard after IBM fell into the $212-$220 starter zone.
+
 ## 2026-05-10
 
 - `analyze`: Created `raw/20260510/IBM_100526.md`, created `[[IBM]]`, refreshed dashboard, entity index, and portfolio map for IBM full analysis.
