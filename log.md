@@ -1,5 +1,9 @@
 # Change Log
 
+## 2026-05-15
+
+- `analyze`: Created `raw/20260515/CSCO_150526.md`, updated `[[CSCO]]`, refreshed dashboard, entity index, and portfolio map after Cisco Q3 FY2026 results.
+
 ## 2026-05-14
 
 - `analyze`: Created `raw/20260514/AAPL_140526.md`, created `[[AAPL]]`, refreshed dashboard, entity index, and portfolio map for Apple full analysis focused on the March 2026 product cycle.
