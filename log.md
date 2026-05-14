@@ -2,6 +2,7 @@
 
 ## 2026-05-14
 
+- `analyze`: Created `raw/20260514/AAPL_140526.md`, created `[[AAPL]]`, refreshed dashboard, entity index, and portfolio map for Apple full analysis focused on the March 2026 product cycle.
 - `analyze`: Created `raw/20260514/IBM_140526.md`, updated `[[IBM]]`, and refreshed dashboard after IBM fell into the $212-$220 starter zone.
 
 ## 2026-05-10
