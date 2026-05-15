@@ -2,6 +2,7 @@
 
 | Ticker | Company | Latest Action | Latest Report |
 |---|---|---|---|
+| [[NVDA]] | NVIDIA Corporation | Wait before Q1 FY2027 earnings; hold if already owned, but do not chase near $235-$236 | [[NVDA_150526]] |
 | [[AAPL]] | Apple Inc. | Wait; do not chase near $300; buy 10%-15% starter only at $250-$270 if iPhone 17/services/product-cycle thesis remains intact | [[AAPL_140526]] |
 | [[IBM]] | International Business Machines Corporation | Buy 10%-15% starter only near $220-$230; do not chase above $250 until Q2 confirms software growth, AI backlog conversion, Confluent integration and FCF guide | [[IBM_100526]] |
 | [[MS]] | Morgan Stanley | Wait; don't chase near 52-week high; buy 10%-15% starter only on pullback to $165-$175 after Q2 confirms wealth flows, markets/IB strength, CET1 and expense discipline | [[MS_100526]] |
