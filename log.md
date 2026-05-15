@@ -2,6 +2,7 @@
 
 ## 2026-05-15
 
+- `analyze`: Created `raw/20260515/BABA_150526.md`, updated `[[BABA]]`, and refreshed dashboard after Alibaba FY2026 results and the May 13 earnings call.
 - `analyze`: Created `raw/20260515/NVDA_150526.md`, created `[[NVDA]]`, refreshed dashboard, entity index, and portfolio map before NVIDIA Q1 FY2027 earnings call.
 - `analyze`: Created `raw/20260515/CSCO_150526.md`, updated `[[CSCO]]`, refreshed dashboard, entity index, and portfolio map after Cisco Q3 FY2026 results.
 
