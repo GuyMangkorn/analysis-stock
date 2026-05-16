@@ -1,5 +1,9 @@
 # Change Log
 
+## 2026-05-16
+
+- `analyze`: Created `raw/20260516/SNDK_160526.md`, created `[[SNDK]]`, refreshed dashboard, entity index, and portfolio map for Sandisk full analysis.
+
 ## 2026-05-15
 
 - `analyze`: Created `raw/20260515/BABA_150526.md`, updated `[[BABA]]`, and refreshed dashboard after Alibaba FY2026 results and the May 13 earnings call.

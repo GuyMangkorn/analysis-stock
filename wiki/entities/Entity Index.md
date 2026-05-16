@@ -2,6 +2,7 @@
 
 | Ticker | Company | Latest Action | Latest Report |
 |---|---|---|---|
+| [[SNDK]] | Sandisk Corporation | Wait; do not chase after the AI-memory rerating; hold if already owned, trim if oversized | [[SNDK_160526]] |
 | [[NVDA]] | NVIDIA Corporation | Wait before Q1 FY2027 earnings; hold if already owned, but do not chase near $235-$236 | [[NVDA_150526]] |
 | [[AAPL]] | Apple Inc. | Wait; do not chase near $300; buy 10%-15% starter only at $250-$270 if iPhone 17/services/product-cycle thesis remains intact | [[AAPL_140526]] |
 | [[IBM]] | International Business Machines Corporation | Buy 10%-15% starter only near $220-$230; do not chase above $250 until Q2 confirms software growth, AI backlog conversion, Confluent integration and FCF guide | [[IBM_100526]] |
