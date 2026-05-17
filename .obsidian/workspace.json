@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/20260509/CSCO_090526.md",
+                "file": "raw/20260515/BABA_150526.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSCO_090526"
+              "title": "BABA_150526"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/20260509/CSCO_090526.md",
+                "file": "raw/20260515/BABA_150526.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CSCO_090526"
+              "title": "Backlinks for BABA_150526"
             }
           },
           {
@@ -184,9 +184,32 @@
   },
   "active": "ad62ab58de70d12b",
   "lastOpenFiles": [
-    "raw/20260508/DELL_080526.md",
+    "wiki/entities/SNDK.md",
+    "raw/20260516/SNDK_160526.md",
+    "raw/20260516",
     "wiki/entities/CSCO.md",
+    "raw/20260515/BABA_150526.md",
+    "wiki/entities/NVDA.md",
+    "raw/20260515/NVDA_150526.md",
+    "raw/20260515/CSCO_150526.md",
+    "raw/20260515",
+    "raw/20260514/AAPL_140526.md",
+    "raw/20260514/IBM_140526.md",
+    "raw/20260510/IBM_100526.md",
+    "wiki/entities/AAPL.md",
+    "raw/20260514",
+    "raw/20260510/MS_100526.md",
+    "raw/20260510/CRWD_100526.md",
+    "wiki/entities/IBM.md",
+    "raw/20260509/BAC_090526.md",
+    "wiki/entities/MS.md",
     "raw/20260509/CSCO_090526.md",
+    "raw/20260509/PLTR_090526.md",
+    "wiki/entities/CRWD.md",
+    "raw/20260510",
+    "wiki/entities/PLTR.md",
+    "wiki/entities/BAC.md",
+    "raw/20260508/DELL_080526.md",
     "raw/20260509",
     "raw/20260505/MA_050526.md",
     "wiki/entities/DELL.md",
@@ -194,31 +217,8 @@
     "wiki/entities/SPOT.md",
     "raw/20260507/SPOT_070526.md",
     "raw/20260507",
-    "wiki/entities/JPM.md",
-    "raw/20260506/JPM_060526.md",
     "raw/20260506",
-    "raw/20260505/V_050526.md",
-    "raw/20260504/META_040526.md",
-    "wiki/analysis/Source Integrity Audit 050526.md",
-    "raw/20260429/TENCENT_290426.md",
-    "wiki/entities/TENCENT.md",
-    "wiki/entities/MA.md",
-    "raw/20260504/WMT_040526.md",
-    "wiki/entities/V.md",
     "raw/20260505",
-    "raw/20260504/AMD_040526.md",
-    "raw/20260504/JNJ_040526.md",
-    "raw/20260504/KO_040526.md",
-    "raw/20260504/TSM_040526.md",
-    "wiki/entities/AMD.md",
-    "wiki/entities/WMT.md",
-    "raw/20260430/THAIBEV_300426.md",
-    "raw/20260430/MSFT_300426.md",
-    "raw/20260430/INTC_300426.md",
-    "raw/20260504",
-    "raw/20260430",
-    "raw/20260429",
-    "pages",
-    "journals"
+    "raw/20260504"
   ]
 }
